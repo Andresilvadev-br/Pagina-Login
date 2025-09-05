@@ -6,10 +6,7 @@ Inclui também a funcionalidade de **mostrar/ocultar senha** com ícone interati
 
 ---
 
-## 🎨 Demonstração
 
-![Preview do Projeto](https://via.placeholder.com/800x400.png?text=Preview+Login+Page)  
-*(adicione um print da sua tela de login aqui depois)*
 
 ---
 
